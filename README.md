@@ -1,3 +1,8 @@
+## TO-DO APP:
+    This is a basic todo list app created using Next.js , prisma, sqlite.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
